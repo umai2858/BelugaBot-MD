@@ -17,11 +17,11 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["6887007930"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["6887007930"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["6887007930"];
-global.OwnerName = "ғᷜᴀͥʀᷡᴏᷛᴏǫᴢᷩᴀᷧᴋᷞʜⷪᴍⷭɪⷩ᳡🇦🇪᭄";
-global.BotName = "ғᷜᴀͥʀᷡᴏᷛᴏǫᴢᷩᴀᷧᴋᷞʜⷪᴍⷭɪⷩ᳡🇦🇪᭄";
+global.Owner = ["923034830074"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["923034830074"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["923034830074"];
+global.OwnerName = "★彡[Ⅿɑℎə𝖗]彡★᭄";
+global.BotName = "★彡[Ⅿɑℎə𝖗]彡★᭄";
 global.packname = "Beluga-MD";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/BelugaBot-MD"; //Do not change.
